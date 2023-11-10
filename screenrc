@@ -19,9 +19,3 @@ windowlist string "%4n %h%=%f"
 # caption
 caption always
 caption string "%{= db}%=%{kk} %{Wk}%{+b} %S %n %{kk} "
-
-#hardstatus alwayslastline 
-#hardstatus string '%{= kG}%{C}Screen: %{c}%{= kG}[%= %{= kw}%?%-Lw%?%{r}(%{W}%n*%f%t%?(%u)%?%{r})%{w}%?%+Lw%?%?%= %{g}][%{C} %d-%m %{W}%c %{g}]'
-
-#hardstatus alwayslastline 
-#hardstatus string "%{= db}%=%{kk} %{Wk}%{+b} %S %n %{kk} "
